@@ -7,9 +7,9 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/myguelangello/letmeask?color=835AFD&logoColor=835AFD" />
   <img alt="GitHub license" src="https://img.shields.io/github/license/myguelangello/letmeask?color=835AFD" />
 </div>
-<!--h2 align="center">
+<h2 align="center">
   <img alt="Letmeask" title="Letmeask" src="src/assets/images/Capa.png" />
-</h2-->
+</h2>
 
 <div>
   <h2>🧪 Tecnologias</h2>
