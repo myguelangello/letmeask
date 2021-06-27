@@ -1,1 +1,3 @@
-<img src="src/assets/images/logo.svg">
+<div align="center">
+  <img src="src/assets/images/logo.svg">
+</div>
