@@ -1,1 +1,1 @@
-![](src/assets/images/logo.svg)
+<img src="src/assets/images/logo.svg">
