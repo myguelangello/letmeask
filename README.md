@@ -24,7 +24,7 @@
 </div>
 
 <div>
-  <h2>🚀 Começando</h2>
+  <h2>🚧 Começando</h2>
   <div>
     <p>Essas instruções fornecerão uma cópia do projeto em sua máquina local para fins de desenvolvimento e teste.</p>
     <p>
@@ -95,7 +95,7 @@
     <p>
       Este é um projeto desenvolvido durante a Next Level Week Together, apresentada dos dias 20 a 27 de Junho de 2021, onde eu me inscrevi e participei da trilha de ReactJS como aluno e durante o evento desenvolvi o projeto que foi proposto para essa trilha em questão.
     </p>
-    <strong>✅ O projeto está com a versão 1.0 concluída!</strong>
+    <strong>🚧 O projeto está com a versão 1.0 concluída!</strong>
   </div>
 </div>
 
