@@ -1,1 +1,1 @@
-![](public/favicon.svg)
+![](src/assets/images/logo.svg)
