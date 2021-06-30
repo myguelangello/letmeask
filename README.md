@@ -5,9 +5,7 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=NLW&message=6&color=835AFD&style=flat" />
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/myguelangello/letmeask?color=835AFD&logoColor=835AFD" />
-  <a href="https://github.com/myguelangello/letmeask/blob/main/LICENSE">
-    <img alt="GitHub license" src="https://img.shields.io/github/license/myguelangello/letmeask">
-  </a>
+<a href="https://github.com/myguelangello/letmeask/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/myguelangello/letmeask?color=835AFD&label=license"></a>
 </div>
 <h2 align="center">
   <img alt="Letmeask" title="Letmeask" src="src/assets/images/Capa.png" />
@@ -137,5 +135,18 @@
       <img src="https://img.shields.io/static/v1?label=&message=_myguel&color=E4405F&labelColor=E4405F&logo=instagram&logoColor=ffffff&style=flat-square" />
     </a>
       <img src="https://img.shields.io/static/v1?label=&message=myguelangello@alu.ufc.br&color=EA4335&labelColor=EA4335&logo=gmail&logoColor=ffffff&style=flat-square" />
+  </div>
+</div>
+ <div>
+  <br />
+  <h2>📃 Licença</h2>
+  <div>
+    <p>
+      Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/myguelangello/letmeask/blob/main/LICENSE">LICENSE</a> para mais detalhes.
+    </p>
+    <br />
+    <a href="https://github.com/myguelangello/letmeask/blob/main/LICENSE">
+      <img alt="GitHub license" src="https://img.shields.io/github/license/myguelangello/letmeask?color=835AFD&label=License&style=for-the-badge">
+    </a>
   </div>
 </div>
