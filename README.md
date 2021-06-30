@@ -5,7 +5,9 @@
 <div align="center">
   <img src="https://img.shields.io/static/v1?label=NLW&message=6&color=835AFD&style=flat" />
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/myguelangello/letmeask?color=835AFD&logoColor=835AFD" />
-  <img alt="GitHub license" src="https://img.shields.io/github/license/myguelangello/letmeask?color=835AFD" />
+  <a href="https://github.com/myguelangello/letmeask/blob/main/LICENSE">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/myguelangello/letmeask">
+  </a>
 </div>
 <h2 align="center">
   <img alt="Letmeask" title="Letmeask" src="src/assets/images/Capa.png" />
