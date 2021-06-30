@@ -95,25 +95,45 @@
     <p>
       Este é um projeto desenvolvido durante a Next Level Week Together, apresentada dos dias 20 a 27 de Junho de 2021, onde eu me inscrevi e participei da trilha de ReactJS como aluno e durante o evento desenvolvi o projeto que foi proposto para essa trilha em questão.
     </p>
-    <strong>🚧 O projeto está com a versão 1.0 concluída!</strong>
+    <p align="center"> O projeto está com a versão 1.0 concluída!</p>
   </div>
 </div>
 
-<h2>✅ Features</h2>
-  <ul>
-    <li>Autenticação com firebase</li>
-    <li>Login social com o Google</li>
-  <li>Diferentes permissões entre admin e usuário</li>
-    <li>Criação de sala de mensagens</li>
-    <li> 
-      Intereções nas salas
-      <ul>
-        <li>Envio de mensagem (usuário)</li>
-        <li>Curtir mensagem (usuário)</li>
-        <li>Deletar mensagem (admin)</li>
-        <li>Realçar mensagem (admin)</li>
-        <li>Marcar mensagem como respondida (admin)</li>
-        <li>Encerrar sala (admin)</li>
-      </ul>
-    </li>
-  </ul>
+<div>
+  <h2>✅ Features</h2>
+  <div>
+    <ul>
+      <li>Autenticação com firebase</li>
+      <li>Login social com o Google</li>
+      <li>Diferentes permissões entre admin e usuário</li>
+      <li>Criação de sala de mensagens</li>
+      <li> 
+        Intereções nas salas
+         <ul>
+          <li>Envio de mensagem (usuário)</li>
+          <li>Curtir mensagem (usuário)</li>
+          <li>Deletar mensagem (admin)</li>
+          <li>Realçar mensagem (admin)</li>
+          <li>Marcar mensagem como respondida (admin)</li>
+          <li>Encerrar sala (admin)</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+ 
+ <div>
+  <h2>📌 Autor</h2>
+  <div>
+    <img src="https://github.com/myguelangello.png" width="80" height="80" />
+    <p>Feito com ❤️ & ☕ por Myguel Angello,  👋🏽 entre em contato</p>
+    <p>Estudante de Sistemas e Mídias Digitais | UFC</p>
+    <a href="https://www.linkedin.com/in/myguelangello/">
+      <img src="https://img.shields.io/static/v1?label=&message=myguelangello&color=0A66C2&labelColor=0A66C2&logo=linkedin&style=flat-square" />
+    </a>
+    <a href="https://www.instagram.com/_myguel/">
+      <img src="https://img.shields.io/static/v1?label=&message=_myguel&color=E4405F&labelColor=E4405F&logo=instagram&logoColor=ffffff&style=flat-square" />
+    </a>
+      <img src="https://img.shields.io/static/v1?label=&message=myguelangello@alu.ufc.br&color=EA4335&labelColor=EA4335&logo=gmail&logoColor=ffffff&style=flat-square" />
+  </div>
+</div>
