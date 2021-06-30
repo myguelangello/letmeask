@@ -145,8 +145,8 @@
       Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/myguelangello/letmeask/blob/main/LICENSE">LICENSE</a> para mais detalhes.
     </p>
     <br />
-    <a href="https://github.com/myguelangello/letmeask/blob/main/LICENSE">
-      <img alt="GitHub license" src="https://img.shields.io/github/license/myguelangello/letmeask?color=835AFD&label=License&style=for-the-badge">
+    <a href="https://github.com/myguelangello/letmeask/blob/main/LICENSE.md">
+      <img alt="GitHub license" src="https://img.shields.io/github/license/myguelangello/letmeask?color=835AFD&label=License&style=for-the-badge" />
     </a>
   </div>
 </div>
